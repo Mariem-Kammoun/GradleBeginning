@@ -1,5 +1,5 @@
 # GradleBeginning
-Ma première application Gradle
+My first Gradle application
 # Building
 To build and test the application:
 `gradlew build` (Windows) `./gradlew build` (Linux/Mac)
